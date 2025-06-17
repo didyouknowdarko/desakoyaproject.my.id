@@ -1,0 +1,17 @@
+[17-Dec-2024 23:56:37 Asia/Jakarta] PHP Warning:  copy(../dataFoto/scan_ktp/123456_.jpg): failed to open stream: No such file or directory in /home/desg7858/public_html/demo1/request_sktm.php on line 78
+[18-Dec-2024 13:20:51 Asia/Jakarta] PHP Warning:  copy(../dataFoto/scan_ktp/7100020601700001_.jpg): failed to open stream: No such file or directory in /home/desg7858/public_html/demo1/request_sku.php on line 73
+[18-Dec-2024 13:38:17 Asia/Jakarta] PHP Warning:  copy(../dataFoto/scan_ktp/7100020601700001_.jpg): failed to open stream: No such file or directory in /home/desg7858/public_html/demo1/request_sktm.php on line 78
+[18-Dec-2024 13:39:09 Asia/Jakarta] PHP Warning:  copy(../dataFoto/scan_ktp/7100020601700001_.jpg): failed to open stream: No such file or directory in /home/desg7858/public_html/demo1/request_skd.php on line 69
+[18-Dec-2024 13:43:11 Asia/Jakarta] PHP Warning:  copy(../dataFoto/scan_ktp/03_.jpg): failed to open stream: No such file or directory in /home/desg7858/public_html/demo1/request_skp.php on line 69
+[18-Dec-2024 13:49:39 Asia/Jakarta] PHP Warning:  copy(../dataFoto/scan_ktp/03_.jpg): failed to open stream: No such file or directory in /home/desg7858/public_html/demo1/request_skd.php on line 69
+[18-Dec-2024 16:09:15 Asia/Jakarta] PHP Warning:  copy(../dataFoto/scan_ktp/7100020601700005_.jpg): failed to open stream: No such file or directory in /home/desg7858/public_html/demo1/request_sktm.php on line 78
+[18-Dec-2024 16:09:35 Asia/Jakarta] PHP Warning:  copy(): Filename cannot be empty in /home/desg7858/public_html/demo1/ubah_request_sktm.php on line 90
+[18-Dec-2024 16:09:35 Asia/Jakarta] PHP Warning:  copy(): Filename cannot be empty in /home/desg7858/public_html/demo1/ubah_request_sktm.php on line 91
+[10-May-2025 16:16:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 34
+[10-May-2025 16:16:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 118
+[10-May-2025 16:16:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 204
+[10-May-2025 16:16:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 289
+[10-May-2025 16:17:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 34
+[10-May-2025 16:17:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 118
+[10-May-2025 16:17:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 204
+[10-May-2025 16:17:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/desg7858/public_html/demo1/status_request.php on line 289
